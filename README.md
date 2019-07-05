@@ -1,10 +1,10 @@
 # Landing Page PHONES
 
-Landing page sencilla para muestra de productos
+Landing page sencilla para muestra de productos basado en los proyectos de Fazt
 
 ## GitHub Page
 
-
+Puedes apreciar la web final a través de [Página Web](https://fjalcode.github.io/landing-page-phone/)
 
 ## Pre-requisitos
 
