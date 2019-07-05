@@ -1,0 +1,23 @@
+/* Titillium Google Fonts */
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.bg-gray-light{
+    background: #f1f1f1
+}
+
+.nav-section-mt{
+    margin-top: 75px;
+}
+/* padding (arriba, derecha, abajo, izquierda) */
+/* #comentario1{
+    background: gray;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 40px
+} */
+
+footer {
+    background: url(../img/smartphones.png)
+}
