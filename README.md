@@ -6,6 +6,8 @@ Landing page sencilla para muestra de productos basado en los proyectos de Fazt
 
 Puedes apreciar la web final a través de [Página Web](https://fjalcode.github.io/landing-page-phone/)
 
+<img src="img/landing.png" width="900px;"/>
+
 ## Pre-requisitos
 
 Para este proyecto se utilizarón las siguientes herramientas
@@ -18,14 +20,11 @@ Para este proyecto se utilizarón las siguientes herramientas
 
 ## Instalación
 
-[Descargamos](https://github.com/FJALCode/estandares-desarrollo/archive/master.zip) o clonamos el proyecto a través del siguiente comando
+[Descargamos](https://github.com/FJALCode/landing-page-phone/archive/master.zip) o clonamos el proyecto a través del siguiente comando
 
 ```
 git clone https://github.com/FJALCode/landing-page-phone.git
 ```
-## Deployment
-
-
 ## Version
 
 1.0.0
