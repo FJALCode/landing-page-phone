@@ -1,6 +1,6 @@
 # Landing Page PHONES
 
-Landing page sencilla para muestra de productos basado en los proyectos de Fazt
+Landing page sencilla para muestra de productos realizado en Bootstrap
 
 ## GitHub Page
 
@@ -8,7 +8,7 @@ Puedes apreciar la web final a través de [Página Web](https://fjalcode.github.
 
 <img src="img/landing.png" width="900px;"/>
 
-## Pre-requisitos
+## Herramientas
 
 Para este proyecto se utilizarón las siguientes herramientas
 
